@@ -1,2 +1,1 @@
-web: gunicorn static_django_heroku_1.wsgi:application
-
+web: gunicorn static_django_heroku.wsgi:application
