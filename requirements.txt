@@ -1,6 +1,6 @@
 Django==1.9.5
 gunicorn
-wheel==0.24.0
+wheel
 dj-database-url
 whitenoise==2.0.6
 mysqlclient
